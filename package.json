@@ -1,0 +1,15 @@
+{
+  "name": "dotsmall-qa-shared-ui",
+  "version": "0.0.0",
+  "private": true,
+  "description": "NON-PRODUCTION synthetic DotSmall discovery fixture",
+  "type": "module",
+  "dependencies": {
+    "react": "*"
+  },
+  "exports": "./Button.tsx",
+  "types": "./Button.tsx",
+  "scripts": {
+    "build": "echo QA source fixture only"
+  }
+}
